@@ -1,0 +1,9 @@
+# final_horsemen
+Group members:
+Heather Saul,
+Jennifer Tritle,
+Seung min Yoo,
+Aydin Jaliov,
+Robert R Cox Jr
+
+Our project aims to visualize the similarities between the r/agoraphobia and r/COVID19_support subreddits, both places full of people fearful to venture outside, one chronic and one situational. We aim to pull posts from both subreddits and analyze the language used with machine learning. We believe it will be interesting to compare the two as some people in r/COVID19_support appear to be developing agoraphobia, and coronavirus is mentioned in r/agoraphobia as well. We will create visualizations such as a bubble 
