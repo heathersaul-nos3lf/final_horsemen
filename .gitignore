@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+~WRL0333.tmp
+
 # Distribution / packaging
 .Python
 build/
