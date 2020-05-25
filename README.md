@@ -6,6 +6,8 @@ Seung min Yoo,
 Aydin Jaliov,
 Robert R Cox Jr
 
-Our project aims to visualize the statistical similarities between two subreddits. We propose to examine the overlap between r/agoraphobia and r/COVID19_support subreddits, both places full of people fearful to venture outside, one chronic and one situational. We aim to pull posts from both subreddits and analyze the language used with machine learning. We believe it will be interesting to compare the two as some people in r/COVID19_support appear to be developing agoraphobia, and coronavirus is mentioned in r/agoraphobia as well, and we could clearly show this relationship between them. We will create visualizations such as a swarm pie plot (word bubbles) showing each of the notable words used in each and the percentage belonging to each subreddit.
+Our project uses NLP and machine learning to determine the statistical similarity between three subreddits. We examine the overlap between r/Anxiety, r/Depression, and r/COVID19_support over the period March 2020. Our github contains 3 topic modeling notebooks that use Latent Dirichlet Allocation and Total Correlation Explanation to determine the topical nodes of the subreddits. One can compare the subreddits by putting the visualizations in these notebooks side by side. The subreddit comparison notebook utilizes t-SNE and UMAP to compare all three subreddits, corroborating what is indicated in the topic modeling analysis. 
+
+The results of our data analysis indicate that in March of 2020 subredditers in the Anxiety subreddit were much more concerned about the coronavirus pandemic than Depression subredditers. Participants in the COVID19_support subreddit were also using rhetoric much closer to the Anxiety subredditers.
 
 Tableau: https://public.tableau.com/profile/j.tritle#!/vizhome/FinalHorsemenTableauTinkering/AnxietyWords?publish=yes
